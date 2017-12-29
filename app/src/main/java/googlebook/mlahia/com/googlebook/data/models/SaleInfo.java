@@ -1,4 +1,4 @@
-package googlebook.mlahia.com.googlebook.data;
+package googlebook.mlahia.com.googlebook.data.models;
 
 import android.os.Parcelable;
 
